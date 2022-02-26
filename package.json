@@ -1,0 +1,20 @@
+{
+  "name": "metalbit",
+  "version": "1.0.0",
+  "description": "MetalBit is a startup which send you cut metal in your desired dimensions",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wdv2015/MetalBit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wdv2015/MetalBit/issues"
+  },
+  "homepage": "https://github.com/wdv2015/MetalBit#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
